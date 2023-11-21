@@ -12,7 +12,7 @@ Data များကို [BaganMap.json](https://github.com/sannlynnhtun-codin
 <table>
  <thead>
   <tr>
-   <th colspan="8">Contributors</th>
+   <th colspan="11">Contributors</th>
   </tr>
  </thead>
     <tbody>
@@ -25,6 +25,9 @@ Data များကို [BaganMap.json](https://github.com/sannlynnhtun-codin
             <td><a href="https://github.com/Mi-Mi-Soe"><img src="https://github.com/YeYintAung94.png" width="60px;"/></a></td>
             <td><a href="https://github.com/Mi-Mi-Soe"><img src="https://github.com/Mi-Mi-Soe.png" width="60px;"/></a></td>
             <td><a href="https://github.com/ayechanaungybm"><img src="https://github.com/ayechanaungybm.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/OatSoeKhant-Coding"><img src="https://github.com/OatSoeKhant-Coding.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/thukhachanthar"><img src="https://github.com/thukhachanthar.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/myatphonekhant-developer"><img src="https://github.com/myatphonekhant-developer.png" width="60px;"/></a></td>
         </tr>
     </tbody>
 </table>
