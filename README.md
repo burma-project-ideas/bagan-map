@@ -12,7 +12,7 @@ Data များကို [BaganMap.json](https://github.com/sannlynnhtun-codin
 <table>
  <thead>
   <tr>
-   <th colspan="7">Contributors</th>
+   <th colspan="8">Contributors</th>
   </tr>
  </thead>
     <tbody>
