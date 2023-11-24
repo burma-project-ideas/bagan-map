@@ -22,7 +22,7 @@ Data များကို [BaganMap.json](https://github.com/sannlynnhtun-codin
             <td><a href="https://github.com/mgchit-coding"><img src="https://github.com/mgchit-coding.png" width="60px;"/></a></td>
             <td><a href="https://github.com/dabria2004"><img src="https://github.com/dabria2004.png" width="60px;"/></a></td> 
             <td><a href="https://github.com/Rasunon-Soare"><img src="https://github.com/Rasunon-Soare.png" width="60px;"/></a></td>
-            <td><a href="https://github.com/Mi-Mi-Soe"><img src="https://github.com/YeYintAung94.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/YeYintAung94"><img src="https://github.com/YeYintAung94.png" width="60px;"/></a></td>
             <td><a href="https://github.com/Mi-Mi-Soe"><img src="https://github.com/Mi-Mi-Soe.png" width="60px;"/></a></td>
             <td><a href="https://github.com/ayechanaungybm"><img src="https://github.com/ayechanaungybm.png" width="60px;"/></a></td>
             <td><a href="https://github.com/OatSoeKhant-Coding"><img src="https://github.com/OatSoeKhant-Coding.png" width="60px;"/></a></td>
