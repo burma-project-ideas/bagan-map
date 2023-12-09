@@ -18,7 +18,7 @@ Data များကို [BaganMap.json](https://github.com/sannlynnhtun-codin
     <tbody>
         <tr>
             <td><a href="https://github.com/sannlynnhtun-coding"><img src="https://github.com/sannlynnhtun-coding.png" width="60px;"/></a></td>
-            <td><a href="https://github.com/MyatPhoneThant"><img src="https://github.com/MyatPhoneThant.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/myatphonethant-dev"><img src="https://github.com/myatphonethant-dev.png" width="60px;"/></a></td>
             <td><a href="https://github.com/mgchit-coding"><img src="https://github.com/mgchit-coding.png" width="60px;"/></a></td>
             <td><a href="https://github.com/dabria2004"><img src="https://github.com/dabria2004.png" width="60px;"/></a></td> 
             <td><a href="https://github.com/Rasunon-Soare"><img src="https://github.com/Rasunon-Soare.png" width="60px;"/></a></td>
